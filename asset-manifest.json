@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/english-typing-master/static/css/main.75333810.css",
-    "main.js": "/english-typing-master/static/js/main.7b5e90d9.js",
+    "main.css": "/english-typing-master/static/css/main.08defa64.css",
+    "main.js": "/english-typing-master/static/js/main.9ab96a29.js",
     "index.html": "/english-typing-master/index.html",
-    "main.75333810.css.map": "/english-typing-master/static/css/main.75333810.css.map",
-    "main.7b5e90d9.js.map": "/english-typing-master/static/js/main.7b5e90d9.js.map"
+    "main.08defa64.css.map": "/english-typing-master/static/css/main.08defa64.css.map",
+    "main.9ab96a29.js.map": "/english-typing-master/static/js/main.9ab96a29.js.map"
   },
   "entrypoints": [
-    "static/css/main.75333810.css",
-    "static/js/main.7b5e90d9.js"
+    "static/css/main.08defa64.css",
+    "static/js/main.9ab96a29.js"
   ]
 }
